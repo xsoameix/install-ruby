@@ -36,7 +36,7 @@
 
         $ mkdir example
         $ cd example
-        $ rails new
+        $ rails new .
 
 2.  把這網站需要用到的 ruby 套件裝一裝
 
