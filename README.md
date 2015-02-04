@@ -2,7 +2,7 @@
 
 1.  到 https://rvm.io/ 安裝 ruby version manager，
 
-    網頁上有一行指令，複製他然後開一個 terminal 再貼上去執行
+    網頁上有兩行指令，複製他然後開一個 terminal 再貼上去執行
 
     安裝完後，家目錄下會出現 .rvm 這個目錄，以後要安裝不同版本的 ruby 或 ruby 的套件，都在這個資料夾裡
 
